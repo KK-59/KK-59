@@ -1,4 +1,4 @@
-## Hi there 👋
+## Kaavya K 👋
 
 <!--
 **KK-59/KK-59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+name: Kaavya Kumar
+studying_in: University of Oxford
+area_of_study: Computer Science and Philosophy
+
+
+
